@@ -1,11 +1,11 @@
-/* .box {
+/* /* /* .box {
    height: 100px;
    width: 150px;
    color: blueviolet;
    background-color: aquamarine; 
 } */
 
-.para1 {
+/* .para1 {
     color: black;
     background-color: aqua;
 }
@@ -13,4 +13,14 @@
 .para2 {
     color: yellow;
     background-color: black;
+} */ 
+
+.dark {
+    background-color: white;
+    color: black;
+}
+
+.light {
+    background-color: black;
+    color: white;
 }
